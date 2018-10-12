@@ -1,3 +1,4 @@
 properties:
-  foo: "hello"
+  foo:
+    xur: "hello"
   bar: "world!"

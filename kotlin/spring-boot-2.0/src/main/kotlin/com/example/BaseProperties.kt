@@ -1,5 +1,5 @@
 package com.example
 
 open class BaseProperties {
-    var foo: String? = null
+    var foo = Foo()
 }

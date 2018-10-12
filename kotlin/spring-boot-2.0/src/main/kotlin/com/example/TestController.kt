@@ -10,7 +10,7 @@ class TestController(
 
     @GetMapping("/test")
     fun get(): String {
-        return properties.foo + " " + properties.bar
+        return properties.foo.xur + " " + properties.bar
     }
 
 }
