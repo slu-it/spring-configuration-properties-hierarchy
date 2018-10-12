@@ -1,4 +1,4 @@
-package com.example.configproperties;
+package com.example;
 
 public class BaseProperties {
 
